@@ -247,7 +247,7 @@ You can find the final GitHub Repo link below:
 [**Empowering App Development for Developers | Docker**
 *A 1-day digital event on May 28th featuring sessions from Docker experts and the broader container community, a live…* www.docker.com](https://www.docker.com/)
 
-You can reach out on my [Twitter](https://twitter.com/avik6028), [Instagram](https://instagram.com/avik6028) or on [LinkedIn](https://linkedin.com/in/avik-kundu-0b837715b) if you need more help. I would be more than happy.
+You can reach out on my  [LinkedIn](https://linkedin.com/in/bilel-bouzid) if you need more help. I would be more than happy.
 
 **Good Luck** 😎 and **happy coding** 👨‍💻
 
